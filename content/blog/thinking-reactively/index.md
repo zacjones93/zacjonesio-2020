@@ -1,5 +1,5 @@
 ---
-slug: essential-questions
+slug: think-reactively
 date: 2019-12-20
 title: 'Thinking Reactively with RxJS'
 description: "RxJS is really good at certain problems involving asynchony, especially when multiple 'events' are being called and reference."

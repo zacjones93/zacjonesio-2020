@@ -36,7 +36,7 @@ const Hero = () => {
             max-width: ${rhythm(15)};
           `}
         >
-          Hey, I'm Zac
+          Welcome 👋        
         </h1>
         <p
         css={css`

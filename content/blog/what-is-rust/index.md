@@ -1,5 +1,5 @@
 ---
-slug: essential-questions
+slug: what-is-rust
 date: 2020-01-22
 title: 'What is Rust?'
 description: "Rust is a statically typed language that fully embraces compiler-checked constraints so that you will encounter all of your bugs during compile time, not run-time."

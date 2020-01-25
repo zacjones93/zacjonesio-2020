@@ -5,10 +5,10 @@ title: 'What is Rust?'
 description: "Rust is a statically typed language that fully embraces compiler-checked constraints so that you will encounter all of your bugs during compile time, not run-time."
 published: true
 keywords: ['rust']
-banner: './svetlozar-apostolov-fBjPZq1bK6w-unsplash.jpg'
+banner: './ant-rozetsky-SLIFI67jv5k-unsplash.jpg'
 author: 'Zac Jones' 
 ---
-Photo by [Svetlozar Apostolov](https://unsplash.com/@chernoholik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Ant Rozetsky](https://unsplash.com/@rozetsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/industrial?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Rust is a statically typed language that fully embraces compiler-checked constraints so that you will encounter all of your bugs during compile time, not run-time. 
 

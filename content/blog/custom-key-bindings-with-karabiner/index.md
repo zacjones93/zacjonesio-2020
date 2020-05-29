@@ -1,6 +1,6 @@
 ---
 slug: custom-key-bindings
-date: 2020-01-24
+date: 2020-05-29
 title: 'Custom Key Bindings with Karabiner'
 description: 'There is a bit of set up that you will need to do to get custom keybindings working in karabiner. This article documents a minimal set up'
 published: true
@@ -40,6 +40,7 @@ The other two mappings could also be useful with less hand movement for right co
             :rules [[:##left_shift :left_shift nil {:alone :delete_or_backspace}]
                     [:right_shift :right_shift nil {:alone :delete_forward}]
                     [:z :left_shift nil {:alone :z}]
+                    [:caps_lock :left_control nil {:alone :delete_or_backspace}]
                     [:slash :right_command nil {:alone :slash}]]}
     ]}
 

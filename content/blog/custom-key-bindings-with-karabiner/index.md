@@ -4,10 +4,10 @@ date: 2020-05-29
 title: 'Custom Key Bindings with Karabiner'
 description: 'There is a bit of set up that you will need to do to get custom keybindings working in karabiner. This article documents a minimal set up'
 published: true
-banner: './DSC00002.JPG'
+banner: './clay-banks-PXaQXThG1FY-unsplash.jpg'
 author: 'Zac Jones' 
 ---
-
+_Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/uhk-keyboard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) is a utility for keyboard customizations. It allows you to map your keys to anything you want. This goes really deep in that you can have multiple layers as well as different &'modes' that your key bindings can live in.
 

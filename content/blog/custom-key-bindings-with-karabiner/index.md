@@ -46,3 +46,5 @@ The other two mappings could also be useful with less hand movement for right co
 
 I got this configuration from [John Lindquist](https://johnlindquist.com/customize-karabiner-with-goku), check his config out for more optimized keyboard goodness. Fair warning, he uses colemak so bindings might not make sense to qwerty users.
 
+The last things you'll need to do before you can start using your new keyboard configuration are to create a default profile in karabiner (and make sure that a corresponding karabiner.json file is created in ~/.config/karabine) and to run the `gokuw` in the terminal
+

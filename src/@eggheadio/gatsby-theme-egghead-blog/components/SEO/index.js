@@ -101,4 +101,3 @@ SEO.defaultProps = {
 }
 
 export default SEO
-© 2020 GitHub, Inc.

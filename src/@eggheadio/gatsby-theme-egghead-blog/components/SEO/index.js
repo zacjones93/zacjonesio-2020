@@ -35,7 +35,7 @@ const SEO = ({ postData, frontmatter = {}, postImage, isBlogPost }) => (
       const title = isBlogPost ? postMeta.title : seo.siteTitle
       const description = postMeta.description || seo.description
       const image = postImage ? `${seo.canonicalUrl}${postImage}` : seo.image
-      const ogImage = `https://elegant-wiles-967f68.netlify.app/opengraph?title=${title}&author=@zacjones93&v=0.0.1`
+      const ogImage = `https://elegant-wiles-967f68.netlify.app/opengraph?title=${title}&author=@zacjones93&v=0.0.2`
       const url = postMeta.slug
         ? `${seo.canonicalUrl}${path.sep}${postMeta.slug}`
         : seo.canonicalUrl

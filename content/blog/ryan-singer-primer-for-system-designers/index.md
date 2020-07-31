@@ -5,7 +5,7 @@ title: "Ryan Singer's Primer on Christopher Alexander's System Design"
 description: "Frame the Problem in terms of Form and Context. Not just about Fit but Fit between Form and Context that increase Life in a way that we want. Make a whole structure that makes meaningful things happen based on that structure. We have the right abstraction to talk about the Centers in the structure and the Patterns that we find."
 published: true
 keywords: ['systems design']
-banner: './mzimasi-ndzombane-uuNCCBaD6ek-unsplash.jpg'
+banner: './images/mzimasi-ndzombane-uuNCCBaD6ek-unsplash.jpg'
 author: 'Zac Jones' 
 ---
 <span>Photo by <a href="https://unsplash.com/@mzimasindzombane?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mzimasi Ndzombane</a> on <a href="https://unsplash.com/s/photos/farm-house?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

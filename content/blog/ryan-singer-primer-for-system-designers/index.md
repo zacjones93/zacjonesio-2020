@@ -32,38 +32,38 @@ Highly recommend you [watch the youtube video](https://www.youtube.com/watch?v=X
 
 # Ryan Singer - Christopher Alexander: A Primer for System Designers
 
--   Christopher Alexander
+- Christopher Alexander
 
 
 <a id="org8d855fc"></a>
 
 ## Basic arch
 
--   how do we frame a design problem so that we make things better out of it?
--   What is the actual outcome we are trying to reach by solving the design problem?
--   What are the actual process that we use to get the design that we want?
+- how do we frame a design problem so that we make things better out of it?
+- What is the actual outcome we are trying to reach by solving the design problem?
+- What are the actual process that we use to get the design that we want?
 
 
 <a id="org8f445d2"></a>
 
 ## Notes on the synthesis of form
 
--   Alexanders system is very recursive
-    -   find an area - differentiate it,
+- Alexanders system is very recursive
+    - find an area - differentiate it,
 
 The important thing is the first two chapters. You get three concepts:
 
--   **<a id="org64e1a5f">Form</a>:** There's some part of the whole world that we are going to create and change
+- **<a id="org64e1a5f">Form</a>:** There's some part of the whole world that we are going to create and change
     
     If you only talk about the Form, you won't have meaningful success
 
--   **<a id="org75c72ac">Context</a>:** The activities that people are trying to do
+- **<a id="org75c72ac">Context</a>:** The activities that people are trying to do
     There's typically a 'right way' to do things.. we'll make software and buildings that follow a format without understanding why.
     
     Constraints on the dynamics of the situation
     
     There isn't one way to design anything.
--   **<a id="orgdb3f1aa">Fit</a>:** the judgement of success is between how Context and Form fit together by describing the behavior and intentions of people
+- **<a id="orgdb3f1aa">Fit</a>:** the judgement of success is between how Context and Form fit together by describing the behavior and intentions of people
     
     need to understand the behavior of people in the context they are in to determine the fit of a solution
 
@@ -76,7 +76,7 @@ How do you describe the context in a Form agnostic way?
 
 Alexander wants to create a better world.
 
--   **<a id="org2794ac3">Life</a>:** the degree to which a certain Form enables different type of activity
+- **<a id="org2794ac3">Life</a>:** the degree to which a certain Form enables different type of activity
 
 
 <a id="org1681834"></a>
@@ -119,7 +119,7 @@ Form can be modified to fit within the Context of someone wanting to sit -> a lo
 
 We need a way to get from a first order view to a higher order view to actually use these concepts
 
--   **<a id="org9101fac">Centers</a>:** Static aspect - how do we take a snapshot of what exists of spacial structure and how do we describe the characteristics and arrangement of things to bring more Life to the place
+- **<a id="org9101fac">Centers</a>:** Static aspect - how do we take a snapshot of what exists of spacial structure and how do we describe the characteristics and arrangement of things to bring more Life to the place
     
     Book 1 of Nature of Order
     
@@ -143,7 +143,7 @@ We need a way to get from a first order view to a higher order view to actually 
     
     Boundaries are one of the properties. (thicken the boundary of the planter example - gives us a better Form)
 
--   **<a id="org868611e">Generative Process</a>:** Dynamic Aspect - by what process do we improve this Form.
+- **<a id="org868611e">Generative Process</a>:** Dynamic Aspect - by what process do we improve this Form.
 
 Book 2 of Nature of Order
 
@@ -162,13 +162,13 @@ Multiplicity of well adapted parts
 
 Doing one thing at a time with careful attention of what's already there.
 
--   Step by step adaptation
--   **<a id="org1dd2840">Sequence</a>:** the order of problem solving
+- Step by step adaptation
+- **<a id="org1dd2840">Sequence</a>:** the order of problem solving
     theres path dependence here
 
 How can we use a pattern language to unfold something?
 
--   **<a id="orgbc0935a">Pattern</a>:** generic relationship of Centers
+- **<a id="orgbc0935a">Pattern</a>:** generic relationship of Centers
 
 Centers -> Structure -> Form
 Pattern is a bundle of Form and Context
@@ -183,7 +183,7 @@ People like to spread out - the activity needs space.
 
 Generic definition of a Center. but it gives you an essential aspect of the relationship of the Forms in that Context. This Pattern enables a Form to have a lot of Life.
 
--   Farm house kitchen example
+- Farm house kitchen example
 
 ![farm kitchen](images/05-farm-kitchen.png)
 
@@ -224,7 +224,7 @@ It allows us to talk about the design at a level of abstraction without over spe
 
 The field of relationships in a project is too complex. We need a high-level way to navigate those fields. You can talk at the high level and the people that are going to do the work can dig deep into how it should get done (Shape up!!)
 
--   Pattern Language for building a university
+- Pattern Language for building a university
 
 ![Build Classroom](images/06-build-classroom.png)
 
@@ -232,7 +232,7 @@ This language in each case generates different designs. There are whole classes 
 
 Well get a different Form Context Fit depending on the language we choose.
 
--   another case study
+- another case study
     ![another case-study](07-another-casestudy.png)
     
     What are the patterns that we need to pull in to solve this?

@@ -1,7 +1,7 @@
 ---
 slug: clojure-from-the-ground-up
 date: 2020-08-03
-title: 'Clojure from the Gound Up'
+title: 'Clojure from the Ground Up'
 description: "Clojure is a strongly typed dynamic language built on top of the JVM."
 published: true
 keywords: ['clojure']

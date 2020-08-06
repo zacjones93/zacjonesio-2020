@@ -1,4 +1,3 @@
-
 ---
 slug: day-5-duplicate-a-sequence-clojure
 date: 2020-08-06

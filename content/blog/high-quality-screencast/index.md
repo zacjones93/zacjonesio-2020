@@ -20,7 +20,7 @@ The key here is live-action, don't start with a long explanation of what you're 
 
 ## 🔁 Tight Feedback Loops
 
-It's important that as you work to the finish line that you show output along the way. The goal here is to create tight feedback loops that will serve as checkpoints for learners as they might be doing this for the first time. Any time you stop to save is a good time to show the output. Even no change is a valid output after changing code so the learner can be confident they are doing it right.
+It's important that you show output along the way as you work from start to finish. The goal here is to create tight feedback loops that will serve as checkpoints for learners as they might be doing this for the first time. Any time you stop to save is a good time to show the output. Even no change is valid output after changing code so the learner can be confident they are doing it right.
 
 Another important aspect of showing output along the way is including expected (and often times unexpected!) errors. There is nothing more frustrating than following along to a tutorial and running into an error that the instructor did not. You can't control the environment of the learner but you can mitigate the learners frustration if they know that you accounted for any expected errors in the task at hand.
 
